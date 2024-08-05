@@ -5,7 +5,6 @@
 replicaCount: 2
 
 image:
-  # https://hub.docker.com/r/alexwhen/docker-2048/tags
   repository: xtamadm/docker-2048
   pullPolicy: IfNotPresent
   tag: "0.0.1"
